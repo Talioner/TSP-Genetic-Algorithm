@@ -1,0 +1,15 @@
+﻿  PEA_Genetic.cpp
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(51): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(57): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(103): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(128): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(177): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(223): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(233): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(248): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(248): warning C4309: "inicjowanie": obcięcie stałej wartości
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(272): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(287): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacpert\source\repos\pea_genetic\pea_genetic.cpp(288): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PEA_Genetic.vcxproj -> C:\Users\KacperT\source\repos\PEA_Genetic\Debug\PEA_Genetic.exe
